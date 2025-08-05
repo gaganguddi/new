@@ -9,3 +9,13 @@ p{
   line-height: 1.5;
   text-align: center;
 }
+body{
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+a{
+  color: #ff6347;
+  text-decoration: none;
+}
